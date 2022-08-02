@@ -23,6 +23,7 @@ In my 7 years of experience in Web development and 2 years in Blockchain technol
 
   - MySQL
   - MongoDB
+  - Firestore
 
 - Technologies
 
@@ -34,6 +35,7 @@ In my 7 years of experience in Web development and 2 years in Blockchain technol
 - Tools
 
   - Git and GitHub
+  - Firebase
   - Adobe Photoshop
   - CorelDRAW
 
