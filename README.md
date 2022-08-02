@@ -1,3 +1,9 @@
+# ABDULMUMIN, ALHASSAN ALHAJI
+
+## FULLSTACK && BLOCKCHAIN DEVELOPER
+
+## ABOUT
+
 ### Hi there 👋
 
 <!--
