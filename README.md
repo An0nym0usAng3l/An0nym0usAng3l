@@ -9,7 +9,7 @@
 I am a positive, enthusiastic and competent Freelancer who specializes in Blockchain and Web Development. Over the years, i have
 built up a diverse range of skills, qualities and attributes that guarantee I will perform highly in any role pertaining to my expertise.
 
-In my 7 years of experience in Web development and 2 years in Blockchain technology, I have contributed to dozens of projects and  I've honed my analytical thinking, collaboration skills and my skills in the following programming languages, technologies and tools:
+In my 7 years of experience in Web development and 2 years in Blockchain technology, I have contributed to dozens of projects and  I've honed my analytical skills, collaboration skills and my skills in the following programming languages, technologies and tools:
 
 - Programming languages
 
