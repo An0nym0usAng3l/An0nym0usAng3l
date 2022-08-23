@@ -83,7 +83,7 @@ In my 7 years of experience in Web development and 2 years in Blockchain technol
     <td>NEXT JS, REACT JS, TYPESCRIPT, WEB3 JS....</td>
   </tr>
   <tr>
-    <td>A Crypto Project's website with a DApp, NFT mint page and others</td>
+    <td>A Crypto Project's website with a Reflection token DApp, NFT mint page, previews, Market data, Account Data, A buy feature and others</td>
   </tr>
   <tr>
     <td>
@@ -103,7 +103,7 @@ In my 7 years of experience in Web development and 2 years in Blockchain technol
     <td>HTML, CSS, JS, WEB3 JS....</td>
   </tr>
   <tr>
-    <td>A Crypto Project's website with a Data Dapp and A staking DApp</td>
+    <td>A Crypto Project's website with a Data Dapp that displays the active telegram channels in a contest for users with bbb in their wallets and A staking DApp</td>
   </tr>
   <tr>
     <td>
@@ -123,7 +123,7 @@ In my 7 years of experience in Web development and 2 years in Blockchain technol
     <td>HTML, CSS, JS, JQUERY, SOLIDITY, WEB3 JS...</td>
   </tr>
   <tr>
-    <td>A Staking Dapp with three staking pools on the Ethereum Network</td>
+    <td>A Staking Dapp with three staking pools on the Ethereum Network, Each pool with their own reward systems, APY and staking mechanism</td>
   </tr>
   <tr>
     <td>
@@ -143,7 +143,7 @@ In my 7 years of experience in Web development and 2 years in Blockchain technol
     <td>HTML, CSS, JS, JQUERY , WEB3 JS...</td>
   </tr>
   <tr>
-    <td>A Crypto Project's website with a Staking DApp</td>
+    <td>A Crypto Project's website with a Generic Staking DApp on binance smart chain with a fixed APY and days</td>
   </tr>
   <tr>
     <td>
@@ -163,7 +163,7 @@ In my 7 years of experience in Web development and 2 years in Blockchain technol
     <td>HTML, CSS, JS, JQUERY, WEB3 JS...</td>
   </tr>
   <tr>
-    <td>A Crypto Project's website with a DApp</td>
+    <td>A Crypto Project's website with a DApp dasboard that displays the current market data for the project and connected user data</td>
   </tr>
   <tr>
     <td>
