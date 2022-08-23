@@ -50,6 +50,149 @@ In my 7 years of experience in Web development and 2 years in Blockchain technol
 
 - Regular communication is really important to me, so let’s keep in touch! @ alhaji4megahit@gmail.com
 
+## PROJECTS
+
+<table>
+  <tr>
+    <td rowspan="4">
+      <img src="./assets/btcbulldog.png" alt="BTCBULLDOG" />
+    </td>
+    <td><a href="https://btcbulldog.finance/">btcbulldog.finance </a>&#129109;</td>
+  </tr>
+  <tr>
+    <td>NEXT JS, REACT JS, REACT CHARTS, WEB3 JS....</td>
+  </tr>
+  <tr>
+    <td>A dashboard that displays the market and account data for a reflection token, also has a chart, Mint page, Buying feature and a transaction History</td>
+  </tr>
+  <tr>
+    <td>
+      Solo
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td rowspan="4">
+      <img src="./assets/grobattoken.png" alt="GROBAT TOKEN" />
+    </td>
+    <td><a href="https://www.grobattoken.com/">grobattoken.com </a>&#129109;</td>
+  </tr>
+  <tr>
+    <td>NEXT JS, REACT JS, TYPESCRIPT, WEB3 JS....</td>
+  </tr>
+  <tr>
+    <td>A Crypto Project's website with a DApp, NFT mint page and others</td>
+  </tr>
+  <tr>
+    <td>
+      In a team, Worked on the dashboard, NFT page and little changes on the Homepage
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td rowspan="4">
+      <img src="./assets/biggestbuy.png" alt="BUYBOTCOIN" />
+    </td>
+    <td><a href="https://biggestbuy.tech/">biggestbuy.tech </a>&#129109;</td>
+  </tr>
+  <tr>
+    <td>HTML, CSS, JS, WEB3 JS....</td>
+  </tr>
+  <tr>
+    <td>A Crypto Project's website with a Data Dapp and A staking DApp</td>
+  </tr>
+  <tr>
+    <td>
+      In a team, Worked on both DApps
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td rowspan="4">
+      <img src="./assets/babyloninu.png" alt="BABYLONINU" />
+    </td>
+    <td><a href="https://babyloninu.web.app/">babyloninu.web.app </a>&#129109;</td>
+  </tr>
+  <tr>
+    <td>HTML, CSS, JS, JQUERY, SOLIDITY, WEB3 JS...</td>
+  </tr>
+  <tr>
+    <td>A Staking Dapp with three staking pools on the Ethereum Network</td>
+  </tr>
+  <tr>
+    <td>
+      Solo
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td rowspan="4">
+      <img src="./assets/shepherdinu.png" alt="SHEPHERDINU" />
+    </td>
+    <td><a href="https://shepherdinu.tech/">shepherdinu.tech </a>&#129109;</td>
+  </tr>
+  <tr>
+    <td>HTML, CSS, JS, JQUERY , WEB3 JS...</td>
+  </tr>
+  <tr>
+    <td>A Crypto Project's website with a Staking DApp</td>
+  </tr>
+  <tr>
+    <td>
+      In a team, Worked on the DApp
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td rowspan="4">
+      <img src="./assets/voltinu.png" alt="VOLTINU" />
+    </td>
+    <td><a href="https://voltinu.in/">Voltinu.in </a>&#129109;</td>
+  </tr>
+  <tr>
+    <td>HTML, CSS, JS, JQUERY, WEB3 JS...</td>
+  </tr>
+  <tr>
+    <td>A Crypto Project's website with a DApp</td>
+  </tr>
+  <tr>
+    <td>
+      Solo
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td rowspan="4">
+      <img src="./assets/deridex.png" alt="DERIDEX" />
+    </td>
+    <td><a href="https://deridexprotocol.com/">deridexprotocol.com </a>&#129109;</td>
+  </tr>
+  <tr>
+    <td>HTML, CSS, JS, JQUERY...</td>
+  </tr>
+  <tr>
+    <td>A Crypto Project's website</td>
+  </tr>
+  <tr>
+    <td>
+      In a team
+    </td>
+  </tr>
+</table>
+
+
 <!--
 **An0nym0usAng3l/An0nym0usAng3l** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
