@@ -50,7 +50,7 @@ In my 7 years of experience in Web development and 2 years in Blockchain technol
 
 - Regular communication is really important to me, so let’s keep in touch! @ alhaji4megahit@gmail.com
 
-## PROJECTS
+## RECENT PROJECTS
 
 <table>
   <tr>
