@@ -75,6 +75,26 @@ In my years of experience in Web development and Blockchain technology, I have c
 <table>
   <tr>
     <td rowspan="4">
+      <img src="./assets/LCL.png" alt="LCL" />
+    </td>
+    <td><a href="https://www.legitcryptoloungenfts.com/">legitcryptoloungenfts.com </a>&#129109;</td>
+  </tr>
+  <tr>
+    <td>NEXT JS, TYPESCRIPT, REACT JS, SASS, WEB3 JS....</td>
+  </tr>
+  <tr>
+    <td>A Minting dashboard that allows users to mint NFTs with BUSD and display other contract details, It also has a reward distribution section</td>
+  </tr>
+  <tr>
+    <td>
+      Solo
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td rowspan="4">
       <img src="./assets/grobattoken.png" alt="GROBAT TOKEN" />
     </td>
     <td><a href="https://www.grobattoken.com/">grobattoken.com </a>&#129109;</td>
