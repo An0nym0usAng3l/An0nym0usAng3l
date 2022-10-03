@@ -42,6 +42,7 @@ In my years of experience in Web development and Blockchain technology, I have c
 - Frameworks
 
   - Tailwind CSS
+  - Chakra-UI
   - Jquery
   - Bootstrap
   - Material-UI
