@@ -56,6 +56,29 @@ In my years of experience in Web development and Blockchain technology, I have c
 <table>
   <tr>
     <td rowspan="4">
+      <img src="./assets/npp.png" alt="NPP" />
+    </td>
+    <td><a href="https://www.nftprintpro.com/">nftprintpro.com </a>&#129109;</td>
+  </tr>
+  <tr>
+    <td>
+    Frontend: REACT JS, CHAKRA UI,  WEB3...<br />
+    Backend: NODE JS, EXPRESS, MONGO DB, SENDGRID...
+    </td>
+  </tr>
+  <tr>
+    <td>A Website that tracks and prints Multichain collectibles(Solana and Ethereum) in user's wallet, It also allows them to mint and print their own arts</td>
+  </tr>
+  <tr>
+    <td>
+      In a team
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td rowspan="4">
       <img src="./assets/btcbulldog.png" alt="BTCBULLDOG" />
     </td>
     <td><a href="https://btcbulldog.finance/">btcbulldog.finance </a>&#129109;</td>
