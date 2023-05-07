@@ -6,10 +6,10 @@
 
 ### Hi there 👋
 
-I am a positive and competent Freelancer who specializes in Blockchain and Web Development. Over the years, i have
-built up a diverse range of skills, qualities and attributes that guarantee I will perform highly in any role pertaining to my expertise.
+I am a positive and competent Freelancer who specializes in Blockchain and Web Development.
 
 In my years of experience in Web development and Blockchain technology, I have contributed to dozens of projects and  I've honed my skills in the following programming languages, technologies and tools:
+
 
 - Programming languages
 
@@ -50,6 +50,19 @@ In my years of experience in Web development and Blockchain technology, I have c
 
 
 - Regular communication is really important to me, so let’s keep in touch! @ alhaji4megahit@gmail.com
+
+![Snake animation](./assets/grid-snake.svg)
+
+<a href="https://github-readme-stats.vercel.app/api?username=An0nym0usAng3l&count_private=true&show_icons=true&theme=nightowl">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=An0nym0usAng3l&count_private=true&show_icons=true&theme=nightowl" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=An0nym0usAng3l">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=An0nym0usAng3l&layout=compact" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api/wakatime?username=An0nym0usAng3l">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=An0nym0usAng3l" />
+</a>
+
 
 ## RECENT PROJECTS
 
