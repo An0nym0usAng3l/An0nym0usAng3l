@@ -29,6 +29,7 @@ In my years of experience in Web development and Blockchain technology, I have c
 
   - Blockchain
   - Node.js - Express - REST API
+  - NestJS
   - React.js - Next.js
   - Sass/scss
 
