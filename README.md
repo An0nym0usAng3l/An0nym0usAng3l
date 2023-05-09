@@ -62,7 +62,7 @@ In my years of experience in Web development and Blockchain technology, I have c
 </a>
 <br />
 <a href="https://github-readme-stats.vercel.app/api/wakatime?username=@An0nym0usAng3l">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@An0nym0usAng3l" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@An0nym0usAng3l&theme=nightowl" />
 </a>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=An0nym0usAng3l">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=An0nym0usAng3l&theme=nightowl" />
