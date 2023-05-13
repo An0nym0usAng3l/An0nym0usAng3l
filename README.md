@@ -32,7 +32,6 @@ In my years of experience in Web development and Blockchain technology, I have c
   - NestJS
   - React.js - Next.js
   - Sass/scss
-  - ML
 
 - Tools
 
