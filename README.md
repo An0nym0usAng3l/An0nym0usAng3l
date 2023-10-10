@@ -1,6 +1,4 @@
-# ABDULMUMIN, Alhassan Alhaji
-
-## (FULLSTACK WEB && BLOCKCHAIN DEVELOPER) || WEB3 DEVELOPER
+# ABDULMUMIN ALHASSAN
 
 [Portfolio](https://alhaji-sama.netlify.app/)
 
