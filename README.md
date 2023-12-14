@@ -1,6 +1,6 @@
 <h1 align="center">ABDULMUMIN ALHASSAN</h1>
 
-<h2 align="center"><b><a href="https://alhaji-sama.netlify.app/">Portfolio</a></b></h2>
+<h2 align="center"><b><i><a href="https://alhaji-sama.netlify.app/">Portfolio</a></i>i></b></h2>
 
 
 
