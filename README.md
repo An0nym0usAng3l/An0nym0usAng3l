@@ -8,9 +8,10 @@
 
 ![Snake animation](./assets/grid-snake.svg)
 
-<a href="https://github-readme-streak-stats.herokuapp.com?user=An0nym0usAng3l&theme=nightowl" align="center">
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=An0nym0usAng3l&theme=nightowl)](https://git.io/streak-stats)
+<!-- <a href="https://github-readme-streak-stats.herokuapp.com?user=An0nym0usAng3l&theme=nightowl" align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=An0nym0usAng3l&theme=nightowl" />
-</a>
+</a> -->
 <!--<a href="https://github-readme-stats.vercel.app/api?username=An0nym0usAng3l&count_private=true&show_icons=true&theme=nightowl">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=An0nym0usAng3l&count_private=true&show_icons=true&theme=nightowl" />
 </a>
